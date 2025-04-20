@@ -7,3 +7,4 @@ atlassiansuite.mservice.com.vn
 gitlab.mservice.com.vn
 support.mservice.com.vn
 172.16.9.131
+vietcombank.com.vn
